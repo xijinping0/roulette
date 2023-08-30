@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkred_roulette=self.webpackChunkred_roulette||[]).push([[227],{4449:(e,t,r)=>{r.r(t),r.d(t,{default:()=>l});var u=r(7294),c=r(6775);function l(){return u.createElement(c.l_,{to:"/docs/toc"})}}}]);
