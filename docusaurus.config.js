@@ -81,7 +81,7 @@ const config = {
     {
       src: 'https://plausible.io/js/script.js',
       defer: true,
-      'data-domain': 'xijinping.one',
+      'data-domain': 'roulette.xijinping.one',
     }],
   themes: [
     [
