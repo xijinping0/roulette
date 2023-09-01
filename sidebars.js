@@ -18,6 +18,7 @@ const sidebars = {
     'toc',
     'ch00',
     'ch01',
+    'ch02',
   ],
 
   // But you can create a sidebar manually
