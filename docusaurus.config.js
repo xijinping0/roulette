@@ -60,7 +60,18 @@ const config = {
           {
             href: 'https://github.com/xijinping0/roulette',
             label: '源代码',
+            position: 'left',
+          },
+          {
+            type: 'dropdown',
+            label: '其他图书',
             position: 'right',
+            items: [
+              {
+                href: 'https://lovers.xijinping.one',
+                label: '习近平与他的情人们',
+              }
+            ]
           },
         ],
       },
