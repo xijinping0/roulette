@@ -39,6 +39,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/xijinping0/roulette/tree/master/',
         },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
