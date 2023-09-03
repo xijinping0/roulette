@@ -36,6 +36,7 @@ const sidebars = {
     'ch16',
     'ch17',
     'ch18',
+    'afterword',
     'photos',
     'acknowledgement',
   ],
