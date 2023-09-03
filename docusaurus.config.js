@@ -52,7 +52,7 @@ const config = {
       navbar: {
         title: '红色赌盘',
         logo: {
-          href: '/docs/toc',
+          href: '/docs/cover',
           src: 'img/cover.jpg',
         },
         items: [

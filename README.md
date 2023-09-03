@@ -1,4 +1,4 @@
-# [红色赌盘](https://roulette.xijinping.one/docs/toc)
+# [红色赌盘](https://roulette.xijinping.one)
 
 [![Deploy](https://github.com/xijinping0/roulette/actions/workflows/deploy.yaml/badge.svg)](https://github.com/xijinping0/roulette/actions/workflows/deploy.yaml)
 
