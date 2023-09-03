@@ -2,7 +2,7 @@
 
 作者：沈栋
 
-<img src="static/img/cover.jpg" width="200"/>
+<img src="static/img/cover.jpg" alt="book cover" width="200"/>
 
 > 寧鳴而死，不默而生。
 >
