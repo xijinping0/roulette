@@ -1,8 +1,8 @@
 # [红色赌盘](https://roulette.xijinping.one)
 
-[![Deploy](https://github.com/xijinping0/roulette/actions/workflows/deploy.yaml/badge.svg)](https://github.com/xijinping0/roulette/actions/workflows/deploy.yaml)
-
 作者：沈栋
+
+<img src="static/img/cover.jpg" width="200"/>
 
 > 寧鳴而死，不默而生。
 >
@@ -12,8 +12,30 @@
 
 ## 目录
 
-- [前言](https://roulette.xijinping.one/docs/ch00)
+- [红色赌盘](https://roulette.xijinping.one/docs/cover)
+- [关于作者](https://roulette.xijinping.one/docs/author)
+- [介绍](https://roulette.xijinping.one/docs/ch00)
 - [第一章](https://roulette.xijinping.one/docs/ch01)
+- [第二章](https://roulette.xijinping.one/docs/ch02)
+- [第三章](https://roulette.xijinping.one/docs/ch03)
+- [第四章](https://roulette.xijinping.one/docs/ch04)
+- [第五章](https://roulette.xijinping.one/docs/ch05)
+- [第六章](https://roulette.xijinping.one/docs/ch06)
+- [第七章](https://roulette.xijinping.one/docs/ch07)
+- [第八章](https://roulette.xijinping.one/docs/ch08)
+- [第九章](https://roulette.xijinping.one/docs/ch09)
+- [第十章](https://roulette.xijinping.one/docs/ch10)
+- [第十一章](https://roulette.xijinping.one/docs/ch11)
+- [第十二章](https://roulette.xijinping.one/docs/ch12)
+- [第十三章](https://roulette.xijinping.one/docs/ch13)
+- [第十四章](https://roulette.xijinping.one/docs/ch14)
+- [第十五章](https://roulette.xijinping.one/docs/ch15)
+- [第十六章](https://roulette.xijinping.one/docs/ch16)
+- [第十七章](https://roulette.xijinping.one/docs/ch17)
+- [第十八章](https://roulette.xijinping.one/docs/ch18)
+- [后记](https://roulette.xijinping.one/docs/afterword)
+- [照片](https://roulette.xijinping.one/docs/photos)
+- [致谢](https://roulette.xijinping.one/docs/acknowledgement)
 
 ## 开发
 
