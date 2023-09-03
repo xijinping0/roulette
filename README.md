@@ -4,7 +4,7 @@
 
 作者：沈栋
 
-> 寧鳴而死，不默而生
+> 寧鳴而死，不默而生。
 >
 > Better to speak out and die than keep silent and live.
 >
