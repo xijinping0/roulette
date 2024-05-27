@@ -1,5 +1,11 @@
 # [红色赌盘](https://roulette.xijinping.one)
 
+> [!NOTE]
+> 本 repo 已经合并到禁书合集 [xijinping0/books](https://github.com/xijinping0/books)。原有网址保留不变，为了更好的阅读体验，请前往新地址阅读：
+>
+> - 原网址：https://roulette.xijinping.one
+> - 新网址：https://books.xijinping.one/roulette
+
 作者：沈栋
 
 <img src="static/img/cover.jpg" alt="book cover" width="200"/>
